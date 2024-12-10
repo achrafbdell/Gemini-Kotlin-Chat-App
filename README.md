@@ -1,25 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/rI4ZjfEn)
-# Université Côte d'Azur - DS4H - EMSI - IA2
-## Cours de Programmation Mobile et IA - Leo Donati
-## TD3 - Soyez créatif avec l'IA
-
-Dans ce TD, vous pouvez choisir quelle technologie vous voulez utiliser pour ajouter de l'IA à votre application. Vous pouvez utiliser des modèles pré-entrainés, des API ou créer votre propre modèle.
-
-Ce TD est à faire en groupe de 2 ou 3 personnes.
-
-### Membres du groupe
-- BOUABDELLI Achraf
-- BENSALEK Abderhmane
-- AIT MOULAY Soufiyane
-
-## 🚀 AI Chat avec Kotlin-Gemini 🌌
+# 🚀 AI Chat avec Kotlin-Gemini 🌌
 Cette application de chat IA offre une expérience interactive et intuitive, permettant aux utilisateurs d'envoyer des messages textuels ✍️, des images 🖼️, ou une combinaison des deux, et de recevoir des réponses intelligentes générées par l'API Gemini 🤖.
 
 ## ✨ Objectifs atteints :
-<bold>🔤 Envoi de texte, d'images ou les deux :<bold> L'application supporte différents types de contenu pour des interactions riches et variées. <br> <br>
-<bold>🤖 Réponses générées par l'IA :<bold> Basée sur le modèle Gemini-1.5-Flash, reconnu pour sa capacité à comprendre et répondre à des données multimodales texte, image, audio... <br><br>
-<bold>🔑 Utilisation sécurisée avec une clé API :<bold> La clé API est utilisée pour authentifier les requêtes vers l'API Gemini.<br><br>
-<bold>📦 Importation de la bibliothèque GeminiAI :<bold> Pour intégrer et communiquer facilement avec l'API. <br><br>
+**🔤 Envoi de texte, d'images ou les deux :** L'application supporte différents types de contenu pour des interactions riches et variées. <br> <br>
+**🤖 Réponses générées par l'IA :** Basée sur le modèle Gemini-1.5-Flash, reconnu pour sa capacité à comprendre et répondre à des données multimodales texte, image, audio... <br><br>
+**🔑 Utilisation sécurisée avec une clé API :** La clé API est utilisée pour authentifier les requêtes vers l'API Gemini.<br><br>
+**📦 Importation de la bibliothèque GeminiAI :** Pour intégrer et communiquer facilement avec l'API. <br><br>
 
 <br><img width="352" alt="Capture d’écran 2024-12-08 à 19 09 51" src="https://github.com/user-attachments/assets/73a62f34-34a7-4fd2-b13e-6883b064e180"><br>
 
